@@ -1,4 +1,4 @@
-# Exportacao-transportadora
+# Exportação de NFs transportadora
 
 Este projeto foi desenvolvido em Python com o objetivo de automatizar o tratamento de notas fiscais e boletos em PDF, otimizando tarefas manuais que antes eram repetitivas e suscetíveis a erros. Entre as funcionalidades principais, destacam-se:
 
